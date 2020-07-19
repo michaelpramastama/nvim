@@ -1,0 +1,8 @@
+spotify
+zoom
+gparted
+postman
+telegram
+vim
+htop
+
