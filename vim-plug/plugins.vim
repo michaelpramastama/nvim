@@ -18,9 +18,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'joshdick/onedark.vim'
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
-    Plug 'ryanoasis/vim-devicons'  
+    Plug 'ryanoasis/vim-devicons'
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
+    Plug 'airblade/vim-gitgutter'
 call plug#end()
 
 
